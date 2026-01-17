@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="level">Рівень: Легкий</string>
+    <string name="time">Час: 30</string>
+    <string name="task">5 + 3 = ?</string>
+    <string name="answer">Ваша відповідь</string>
+    <string name="check">Перевірити</string>
+    <string name="score">Бали: 0 | Рекорд: 0</string>
+</resources>
